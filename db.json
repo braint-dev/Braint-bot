@@ -1,0 +1,10 @@
+{
+  "premiumUser": {
+    "c": {
+      "creator": "652987206" // remplacez par votre numéro 
+    },
+    "p": {
+      "premium": "652987206" // remplacez par votre numéro 
+    }
+  }
+}
